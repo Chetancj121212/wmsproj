@@ -136,7 +136,7 @@ public
 *.tsbuildinfo
 next-env.d.ts
 
-# OS generated files
+# OS generated files.
 .DS_Store
 .DS_Store?
 ._*
